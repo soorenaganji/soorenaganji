@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**soorenaganji/soorenaganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Skills :
 Javascript ES6
 HTML5 
@@ -18,4 +16,3 @@ https://www.linkedin.com/in/sourena-ganji/
 - 🌱 I’m currently learning Next js
 - 👯 I’m looking to collaborate on any professional team
 - ⚡ Fun fact: this platform is my second favorite hub :)))
--->
