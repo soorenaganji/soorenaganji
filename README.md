@@ -2,32 +2,20 @@
 
 <!--
 **soorenaganji/soorenaganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🖥️ See my portfolio at badrnezhad.com
-🚀 I'm currently working on Holosen
-🤝 I'm open to collaborating on interesting projects as a web and android developer
-
-
 Skills :
-Javascript 
+Javascript ES6
 HTML5 
 CSS3 
-Bootstrap
+SASS
+React.js
+Redux
 
-Socials
+I would be so glad to see you on Linkedin :)
+https://www.linkedin.com/in/sourena-ganji/
     
 
-Badges
-My GitHub Stats
-
-Top Languages
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a web messenger which is kind of Telegram clone
+- 🌱 I’m currently learning Next js
+- 👯 I’m looking to collaborate on any professional team
+- ⚡ Fun fact: this platform is my second favorite hub :)))
 -->
