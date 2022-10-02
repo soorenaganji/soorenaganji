@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I`m Sourena ganji , from tehran/iran and it would be my honor to share my codes with you :)
+Let`s start with the ecommerce website
+
 Skills :
 Javascript ES6
 HTML5 
