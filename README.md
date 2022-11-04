@@ -5,10 +5,15 @@ Let`s start with the ecommerce website
 
 Skills :
 Javascript ES6
+/
 HTML5 
-CSS3 
+/
+CSS3
+/
 SASS
+/
 React.js
+/
 Redux
 
 I would be so glad to see you on Linkedin :)
