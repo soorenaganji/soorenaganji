@@ -15,12 +15,14 @@ SASS
 React.js
 /
 Redux
+/
+Next.js
 
 I would be so glad to see you on Linkedin :)
 https://www.linkedin.com/in/sourena-ganji/
     
 
-- 🔭 I’m currently working on a web-based social app kinda like linkedin clone
-- 🌱 I’m currently going to learn Next js
+- 🔭 I’m currently working on Skillhub
+- 🌱 I’m currently going to learn Typescript
 - 👯 I’m looking to collaborate on any professional team
 - ⚡ Fun fact: this platform is my second favorite hub :)))
